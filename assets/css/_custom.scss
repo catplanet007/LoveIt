@@ -2,3 +2,7 @@
 // Custom style
 // 自定义样式
 // ==============================
+img[data-sizes="auto"] {
+    display: block;
+    width: 100%;
+}
